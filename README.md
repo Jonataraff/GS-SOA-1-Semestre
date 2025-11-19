@@ -1,3 +1,9 @@
+👥 Integrantes da Equipe
+Nome	RM
+Diogo Julio - RM553837
+Jonata Rafael - RM552939 	
+
+
 # 📚 SkillUp API  
 API desenvolvida como parte da Global Solution FIAP — Engenharia de Software.  
 A aplicação simula uma plataforma de *Upskilling* para 2030, oferecendo trilhas de aprendizado e gestão de usuários com base em competências.
